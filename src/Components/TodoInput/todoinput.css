@@ -1,0 +1,15 @@
+.Input-bar{
+    width: 100%;
+    height: 80px;
+    font-weight: 300;
+    font-size: 30px;
+    color: #6d6d6d;
+    outline: none;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #ededed;
+}
+
+.Input-container{
+    width: 98%;
+}

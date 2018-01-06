@@ -1,0 +1,16 @@
+.TodoItem{
+    width: 100%;
+    height: 51px;
+    padding: 10px;
+    font-size: 30px;
+    text-align: left;
+    border-bottom: #e58484 solid 2px;
+    background: rgb(255, 195, 195);
+}
+
+.removeOp{
+        font-size: 22px;
+        text-align: right;
+        float: right;
+        margin-right: 37px;
+}
